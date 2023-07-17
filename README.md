@@ -7,4 +7,4 @@
    ```
    git remote add <name for remote repository> <url-address ropository>
    ```
-для получение изменеaaaaaaaaний из удаленного репозитория используеться команда git pull для отмуны коммыта использовать команду git commit --amend
+для получение изменений из удаленного репозитория используеться команда git pull для отмены комыта использовать команду git commit --amend
